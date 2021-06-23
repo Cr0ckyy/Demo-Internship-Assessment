@@ -1,0 +1,2 @@
+rootProject.name = "Demo Internship Assessment"
+include ':app'
